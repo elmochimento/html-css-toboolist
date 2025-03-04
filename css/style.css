@@ -1,0 +1,28 @@
+/* .intestazione {
+    color: white;
+    display: inline-block;
+} */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #b1b4b9;
+}
+
+ header{
+    background-color: white;
+ }
+
+.logo{
+    width: 100px;
+    vertical-align: middle;
+}
+
+.titolo{
+    display: inline;
+    vertical-align: middle;
+}
