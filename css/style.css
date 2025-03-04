@@ -1,7 +1,3 @@
-/* .intestazione {
-    color: white;
-    display: inline-block;
-} */
 
 * {
     margin: 0;
@@ -25,4 +21,37 @@ body{
 .titolo{
     display: inline;
     vertical-align: middle;
+}
+
+.container {
+    background-color: white;
+    margin-top: 100px;
+}
+
+.celeste {
+    background-color: #48adf0;
+    color: white;
+    display: inline-block;
+
+}
+
+.button-white {
+    background-color: #ffffff;
+
+}
+
+.new-task{
+    margin-top: 25px;
+}
+
+.today {
+    margin-top: 25px;
+}
+
+.Quarterly {
+    display: inline-block;
+}
+
+.paragrafo {
+    display: inline-block;
 }
