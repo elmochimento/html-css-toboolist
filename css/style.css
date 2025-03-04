@@ -32,8 +32,47 @@ body{
     background-color: #48adf0;
     color: white;
     display: inline-block;
+    border-radius: 50px;
+    width: 80px;
 
 }
+
+.viola {
+    background-color: purple;
+    color: white;
+    display: inline-block;
+    border-radius: 50px;
+    width: 80px;
+}
+
+.mare {
+    background-color: aquamarine;
+    color: white;
+    border-radius: 50px;
+    width: 80px;
+}
+
+.senape {
+    background-color: chocolate;
+    color: white;
+    border-radius: 50px;
+    width: 80px;
+}
+
+.rosa {
+    background-color: pink;
+    color: white;
+    border-radius: 50px;
+    width: 80px
+}
+
+.green {
+    background-color: rgb(65, 206, 72);
+    color: white;
+    border-radius: 50px;
+    width: 80px
+}
+
 
 .button-white {
     background-color: #ffffff;
@@ -50,8 +89,21 @@ body{
 
 .Quarterly {
     display: inline-block;
+    margin-top: 20px;
+}
+
+.mobile {
+    display: inline-block;
+    margin-top: 20px;
 }
 
 .paragrafo {
     display: inline-block;
 }
+
+
+.interview{
+    margin-top: 20px;
+    display: inline-block;
+}
+
