@@ -82,6 +82,8 @@ body{
 
 .button-white {
     background-color: #ffffff;
+    border-radius: 50px;
+    width: 80px
 
 }
 
