@@ -23,6 +23,7 @@ body{
 .titolo{
     display: inline;
     vertical-align: middle;
+    font-size: 80px;
 }
 
 .container {
